@@ -1,4 +1,4 @@
-![keybridge](keybridge.heic)
+![keybridge](keybridge.png)
 
 Compatibility:
 * 2017 13" MBP

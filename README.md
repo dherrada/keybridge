@@ -1,3 +1,5 @@
+![keybridge](keybridge.heic)
+
 Compatibility:
 * 2017 13" MBP
 * 2018 13" MBP
